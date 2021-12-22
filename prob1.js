@@ -7,8 +7,6 @@
 
 
 // Array.isArray() method check the input is array or not array
-
-
 let is_Array = (arr)=>{
     if(Array.isArray(arr)){
         return true;
